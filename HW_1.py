@@ -1,4 +1,4 @@
-  # Создаём переменную типа String.
+ # Создаём переменную типа String.
 name = 'Andrey'
 print(type(name),'Привет меня зовут', name)
 
